@@ -1,4 +1,5 @@
 # Dolkings
+![Dolkings preview](.dolkings.png)
 
 ## Instalations
 ```
