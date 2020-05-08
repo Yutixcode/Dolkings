@@ -12,6 +12,5 @@ $ python dolkings.py
 
 ## Instructions
 - **Dork**: the search query you'd like to use
-- - **Example**: *inurl:addcart.php?id=*
 - **Page**: the amount of websites to display
 - **Time**: the time interval between requests
