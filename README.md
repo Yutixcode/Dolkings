@@ -14,3 +14,8 @@ $ python dolkings.py
 - **Dork**: the search query you'd like to use
 - **Page**: the amount of websites to display
 - **Time**: the time interval between requests
+
+## Get in Touch
+- [Facebook](https://facebook.com/njnk.xnxx)
+- [Instagram](https://instagram.com/n74nk420)
+- [Fanspage Facebook](https://facebook.com/Yutixcode-103446204701375/)
