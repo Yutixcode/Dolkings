@@ -18,4 +18,3 @@ $ python dolkings.py
 ## Get in Touch
 - [Facebook](https://facebook.com/njnk.xnxx)
 - [Instagram](https://instagram.com/n74nk420)
-- [Fanspage Facebook](https://facebook.com/Yutixcode-103446204701375/)
